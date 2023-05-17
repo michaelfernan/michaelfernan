@@ -1,5 +1,9 @@
-<div style="text-align: center;">
-  <h1>💫 About Me:</h1>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=28910F&background=FF1FFD00&width=435&lines=Hello!+I'm+Michael+!!;I'm+Michael+Fernandes!)](https://git.io/typing-svg)
+  
+ ## 💫 About Me:
+
   <p>Olá! Me chamo Michael Fernandes! Sou um apaixonado por tecnologia 🖥️💼 e estou sempre buscando aprender mais. 🌱💡 Ingressei no curso da Trybe para me aprimorar e expandir meus conhecimentos em programação. 🚀💻</p>
   <p>Já possuo experiência em diversas tecnologias, como: API, Java, React, SQL, TypeScript e MySQL. 💪📚🌍📚</p>
   <p>Estou em constante evolução e busco oportunidades para aplicar minha formação e experiência em projetos inovadores e sustentáveis. 💡🌍 Sou uma pessoa comprometida, ágil e capaz de trabalhar em equipe, sempre em busca de aprimorar minhas habilidades e competências. 💼🎯✨</p>
