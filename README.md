@@ -7,20 +7,20 @@
  
  
  
-  
-<h1> 💫 About Me:</h1>
+  <div align="justify">
+<h1> 💫  About Me: </h1>
   
 
 
 <img src="https://github.com/michaelfernan/michaelfernan/assets/111091339/099f1502-7121-4c9b-bf8a-dc69a29cdc74" width="250px" align="right" border-radius="100px;" alt="Desenho de Michael">
 
-  <p>Olá! Me chamo Michael Fernandes! Sou um apaixonado por tecnologia 🖥️💼 e estou sempre buscando aprender mais. 🌱💡 Ingressei no curso da Trybe para me aprimorar e expandir meus conhecimentos em programação. 🚀💻</p>
+  <p>Olá! Me chamo Michael Fernandes! Sou um apaixonado por tecnologia 🖥️ 💼  e estou sempre buscando aprender mais. 🌱💡 Ingressei no curso da Trybe para me aprimorar e expandir meus conhecimentos em programação. 🚀💻 </p>
 
   <p>Já possuo experiência em diversas tecnologias, como: API, Java, React, SQL, TypeScript e MySQL. 💪📚🌍📚</p>
   
   <p>Estou em constante evolução e busco oportunidades para aplicar minha formação e experiência em projetos inovadores e sustentáveis. 💡🌍 Sou uma pessoa comprometida, ágil e capaz de trabalhar em equipe, sempre em busca de aprimorar minhas habilidades e competências. 💼🎯✨<br><br>Vamos juntos enfrentar os desafios do mundo contemporâneo e entregar soluções criativas e efetivas! 🌱🚀💻</p>
     
-
+ </div>
   <br>
   <br>
     <div align="center">
@@ -75,6 +75,8 @@
   <br>
   <hr>
   <a href="https://visitcount.itsvg.in/api?id=michaelfernan&icon=0&color=0">
+    
+    
     <img src="https://visitcount.itsvg.in/api?id=michaelfernan&icon=0&color=0" alt="Visit Count">
   </a>
   <p>Proudly created with GPRM (<a href="https://gprm.itsvg.in">https://gprm.itsvg.in</a>)</p>
