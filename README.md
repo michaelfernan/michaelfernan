@@ -11,16 +11,14 @@
 <h1> 💫  About Me: </h1>
   
 
-
 <img src="https://github.com/michaelfernan/michaelfernan/assets/111091339/099f1502-7121-4c9b-bf8a-dc69a29cdc74" width="250px" align="right" border-radius="100px;" alt="Desenho de Michael">
 
-  <p>Olá! Me chamo Michael Fernandes! Sou um apaixonado por tecnologia 🖥️ 💼  e estou sempre buscando aprender mais. 🌱💡 Ingressei no curso da Trybe para me aprimorar e expandir meus conhecimentos em programação. 🚀💻 </p>
+   <p>🔬💼 Olá! Sou Michael Fernandes. Com formação em Ciências Biológicas pela UNESA e experiência nas áreas educacional e laboratorial, atualmente estou em transição para a Tecnologia da Informação. Minha jornada de aprendizado na Trybe e na residência em TIC no SENAI me permitiu desenvolver habilidades interpessoais valiosas como trabalho em equipe, comunicação, empatia e resiliência etc.</p>
 
-  <p>Já possuo experiência em diversas tecnologias, como: API, Java, React, SQL, TypeScript e MySQL. 💪📚🌍📚</p>
-  
-  <p>Estou em constante evolução e busco oportunidades para aplicar minha formação e experiência em projetos inovadores e sustentáveis. 💡🌍 Sou uma pessoa comprometida, ágil e capaz de trabalhar em equipe, sempre em busca de aprimorar minhas habilidades e competências. 💼🎯✨<br><br>Vamos juntos enfrentar os desafios do mundo contemporâneo e entregar soluções criativas e efetivas! 🌱🚀💻</p>
-    
- </div>
+  <p>👨‍💻🚀 Além disso, adquiri competências técnicas abrangentes, incluindo HTML, CSS, JavaScript, React.js, Node.js, Typescript, Express, PostgreSQL, Java, MongoDB e SQL. Estou em busca de oportunidades como trainee ou analista júnior em desenvolvimento front-end e full-stack, almejando aplicar tanto minhas soft skills quanto meu conhecimento técnico para contribuir efetivamente no campo de TI.</p>
+
+  <p>☁️🌟 Também possuo um interesse na área de AWS Cloud, buscando oportunidades que ampliem ainda mais a minha capacidade de atuação e crescimento profissional. Estou pronto para enfrentar os desafios do mundo contemporâneo e entregar soluções criativas e eficazes!" 🌱🌍💻</p>
+
   <br>
   <br>
     <div align="center">
@@ -70,8 +68,6 @@
   <h3>🔝 Top Contributed Repo:</h3>
   <img src="https://github-contributor-stats.vercel.app/api?username=michaelfernan&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
   <br>
-  <h3>😂 Random Dev Meme:</h3>
-  <img src="https://rm.up.railway.app/" width="512px" alt="Random Dev Meme">
   <br>
   <hr>
   <a href="https://visitcount.itsvg.in/api?id=michaelfernan&icon=0&color=0">
