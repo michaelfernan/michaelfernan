@@ -13,11 +13,7 @@
 
 <img src="https://github.com/michaelfernan/michaelfernan/assets/111091339/099f1502-7121-4c9b-bf8a-dc69a29cdc74" width="250px" align="right" border-radius="100px;" alt="Desenho de Michael">
 
-   <p>🔬💼 Olá! Sou Michael Fernandes. Com formação em Ciências Biológicas pela UNESA e experiência nas áreas educacional e laboratorial, atualmente estou em transição para a Tecnologia da Informação. Minha jornada de aprendizado na Trybe e na residência em TIC no SENAI me permitiu desenvolver habilidades interpessoais valiosas como trabalho em equipe, comunicação, empatia e resiliência etc.</p>
-
-  <p>👨‍💻🚀 Além disso, adquiri competências técnicas abrangentes, incluindo HTML, CSS, JavaScript, React.js, Node.js, Typescript, Express, PostgreSQL, Java, MongoDB e SQL. Estou em busca de oportunidades como trainee ou analista júnior em desenvolvimento front-end e full-stack, almejando aplicar tanto minhas soft skills quanto meu conhecimento técnico para contribuir efetivamente no campo de TI.</p>
-
-  <p>☁️🌟 Também possuo um interesse na área de AWS Cloud, buscando oportunidades que ampliem ainda mais a minha capacidade de atuação e crescimento profissional. Estou pronto para enfrentar os desafios do mundo contemporâneo e entregar soluções criativas e eficazes!" 🌱🌍💻</p>
+  "🔬💼 Olá! Sou Michael Fernandes, formado em Ciências Biológicas pela UNESA e com experiência em educação e laboratório. Atualmente, estou migrando para a Tecnologia da Informação. Com aprendizado na Trybe e residência em TIC no SENAI, desenvolvi habilidades interpessoais como trabalho em equipe, comunicação e empatia, além de habilidades técnicas em HTML, CSS, JavaScript, React.js, Node.js, Typescript, Express, PostgreSQL, Java, MongoDB e SQL. Estou buscando oportunidades como trainee ou analista júnior em desenvolvimento front-end e full-stack, enquanto expando meus conhecimentos na área de Cloud, como AWS. Estou no início dessa jornada, mas vejo a nuvem como uma extensão natural do meu trabalho como desenvolvedor, proporcionando soluções escaláveis e eficientes. Pronto para enfrentar desafios e entregar soluções criativas e eficazes!" 🌱🌍💻"
 
   <br>
   <br>
@@ -27,13 +23,13 @@
       
   <p>📧 E-mail: fernandes1michael@gmail.com</p>
   <p>📞 Telefone: +55 24 98141-1077</p>
-  <br>
+
   <br>
   <h2>🌐 Socials:</h2>
   <a href="https://linkedin.com/in/michael-fernandes-36780167">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <br>
+
   <br>
   <h2>💻 Tech Stack:</h2>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
