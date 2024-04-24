@@ -68,8 +68,6 @@
   <hr>
   <a href="https://visitcount.itsvg.in/api?id=michaelfernan&icon=0&color=0">
     
-    
-    <img src="https://visitcount.itsvg.in/api?id=michaelfernan&icon=0&color=0" alt="Visit Count">
   </a>
   <p>Proudly created with GPRM (<a href="https://gprm.itsvg.in">https://gprm.itsvg.in</a>)</p>
 </div>
