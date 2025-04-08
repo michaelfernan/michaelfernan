@@ -58,10 +58,10 @@ Formado na Trybe e residente em TIC no SENAI (Serratec), adquiri experiência t�
 
 ---
 
-
 <p align="center">
-  <img src="https://github.com/michaelfernan/michaelfernan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/michaelfernan/michaelfernan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
 
 ### 🏆 GitHub Trophies:
