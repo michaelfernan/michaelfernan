@@ -2,11 +2,11 @@ name: Generate Snake Commits
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa todos os dias à meia-noite UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout do repositório
@@ -19,16 +19,14 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Commit e push do resultado
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: GitHub Actions
-          author_email: actions@github.com
-          message: "chore: atualiza cobrinha de commits 🐍"
-          add: "dist/github-contribution-grid-snake.svg"
-
-      - name: Subir artefato para a branch output
-        uses: actions/upload-artifact@v4
-        with:
-          name: snake-graph
-          path: dist/github-contribution-grid-snake.svg
+      - name: Criar branch output e commitar SVG
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin
+          git switch -c output || git checkout output
+          mkdir -p dist
+          cp dist/github-contribution-grid-snake.svg github-contribution-grid-snake.svg
+          git add github-contribution-grid-snake.svg
+          git commit -m "chore: primeira cobrinha 🐍" || echo "nada pra commitar"
+          git push origin output
