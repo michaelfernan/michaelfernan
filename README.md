@@ -1,60 +1,72 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=28910F&background=FF1FFD00&width=435&lines=Hello!+Welcome+!!;I'm+Michael+Fernandes!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=28910F&background=FF1FFD00&width=435&lines=Hello!+Welcome+!!;I'm+Michael+Fernandes;Full+Stack+Developer;Java+%7C+Node.js+%7C+React+%7C+Angular;Clean+Code+%26+DevOps+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="justify">
-<h1>💫 Sobre mim:</h1>
+<h1>💫 Sobre mim</h1>
 
 <img src="https://github.com/michaelfernan/michaelfernan/assets/111091339/099f1502-7121-4c9b-bf8a-dc69a29cdc74" width="250px" align="right" alt="Desenho de Michael" style="border-radius: 100px;">
 
-Sou <strong>Michael Fernandes</strong>, desenvolvedor Full Stack com background em Ciências Biológicas e atualmente cursando <strong>Engenharia de Software (Bacharelado)</strong>.
+Olá! Sou **Michael Fernandes**, um **Desenvolvedor Full Stack** apaixonado por transformar problemas complexos em soluções escaláveis.
 
-Em transição de carreira, já participei de <strong>mais de 20 projetos</strong> práticos usando tecnologias modernas como <strong>Java, JavaScript, TypeScript, React.js, Node.js, NestJS, Spring Boot e PostgreSQL</strong>. Atuei tanto no front-end quanto no back-end, desenvolvendo <strong>APIs RESTful</strong>, <strong>interfaces responsivas</strong> e <strong>integrações com bancos de dados</strong>.
+Com um background analítico em **Ciências Biológicas** e cursando **Engenharia de Software**, combino método científico com boas práticas de desenvolvimento. Tenho experiência prática (Freelance e Projetos Reais) construindo arquiteturas robustas utilizando **Java (Spring Boot)** e **Node.js (NestJS)**, além de interfaces modernas com **React**, **Next.js** e **Angular**.
 
-Formado na Trybe e residente em TIC no SENAI (Serratec), adquiri experiência técnica e também habilidades interpessoais como <strong>trabalho em equipe, comunicação eficaz e empatia</strong>. Estou buscando oportunidades como <strong>desenvolvedor júnior ou trainee</strong> nas áreas de <strong>Front-End, Back-End ou Full Stack</strong>, onde possa crescer profissionalmente e contribuir com soluções escaláveis, acessíveis e de qualidade.
+Minha stack vai além do código: tenho vivência com **AWS**, **Docker**, **CI/CD** e integração de microsserviços.
 
-🚀 Sempre em busca de novos aprendizados e desafios!
+🎯 **Atualmente:** Foco em arquitetura de software, Cloud Computing e Clean Architecture.
+💼 **Objetivo:** Disponível para atuar em projetos desafiadores como **Full Stack, Back-End ou Front-End**, trazendo versatilidade e compromisso com a entrega.
+
 </div>
 
 ---
 
-### 📧 Contato:
+### 🛠️ Tech Stack & Ferramentas
 
-- Email: michaelfernandees@gmail.com  
-- Telefone: +55 24 98141-1077
+<div align="center">
 
----
-
-### 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fernandes-michael)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/michaelfernan)
-
----
-
-### 💻 Tech Stack:
-
+**Linguagens**
+<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+**Front-End**
+<br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Back-End**
+<br>
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**Infra, Dados & DevOps**
+<br>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=michaelfernan&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=michaelfernan&theme=vue-dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelfernan&theme=vue-dark&hide_border=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=michaelfernan&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelfernan&theme=vue-dark&hide_border=false" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelfernan&theme=vue-dark&hide_border=false&layout=compact" alt="Top Languages" />
+</div>
 
 ---
 
@@ -62,23 +74,25 @@ Formado na Trybe e residente em TIC no SENAI (Serratec), adquiri experiência t�
   <img src="https://raw.githubusercontent.com/michaelfernan/michaelfernan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+---
 
+### 🏆 GitHub Trophies
 
-### 🏆 GitHub Trophies:
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=michaelfernan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=michaelfernan&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+</div>
 
 ---
 
-### ✍️ Random Dev Quote:
+### 📧 Vamos conversar?
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fernandes-michael)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaelfernandees@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5524981411077)
 
-### 🔝 Top Contributed Repo:
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=michaelfernan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
 
